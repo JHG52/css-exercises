@@ -1,0 +1,20 @@
+.oddno{
+    background-color: rgb(218, 127, 127);
+    font: Verdana, "DejaVu Sans";
+    fallback: sans-serif;
+}
+
+.oddno3{
+    font-size: 24px;
+}
+
+#number2 {
+    color: rgb(22, 6, 240);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(127, 218, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
