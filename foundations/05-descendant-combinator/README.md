@@ -1,4 +1,4 @@
-# Descendant Combinator
+﻿# Descendant Combinator
 Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
 
 The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that *aren't* descendants of that element unstyled.
@@ -14,5 +14,5 @@ The properties you need to add are:
 
 
 ### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Do the elements that contain the text "This should be styled" have the correct styles applied? yes
+- Do the elements that contain the text "This should be unstyled" have no styles applied? yes
