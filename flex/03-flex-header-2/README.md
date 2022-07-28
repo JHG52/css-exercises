@@ -1,4 +1,4 @@
-# Another common header style
+﻿# Another common header style
 
 We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
 
@@ -14,8 +14,8 @@ As with the last example, this one needs to be flexible in the middle, with item
 ![gif](./desired-outcome.gif)
 
 ### Self Check
-- Everything is centered vertically inside the header.
-- There is 8px space between everything and the edge of the header.
-- Items are arranged horizontally as seen in the outcome image.
-- There is 16px between each item on both sides of the header.
-- flex is used to arrange everything.
+- Everything is centered vertically inside the header. yes
+- There is 8px space between everything and the edge of the header. yes
+- Items are arranged horizontally as seen in the outcome image. yes
+- There is 16px between each item on both sides of the header. yes
+- flex is used to arrange everything. yes
